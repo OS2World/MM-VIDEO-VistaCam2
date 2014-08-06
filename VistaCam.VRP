@@ -1,0 +1,13 @@
+VX-REXX OS/2 V2.10 Build B3
+VRX: Window1.VRX
+MacroPath: VRM:E:\data\vxrexx\WebCam
+EXEPath: 
+RunParameters: 
+RunDirectory: 
+VRXWindow: __VREMainWindow,1,108,241,6817,9732
+VRXWindow: __VRESectionListWindow,1,36,15369,11611,3342
+VRXWindow: __VREToolsWindow,1,36,14117,5998,1155
+VRXWindow: __VREWindListWindow,1,181,4770,3228,2289
+UserFile: 1
+UserWindow: Window1,1
+UserWindow: WIN_DefLoc,1
